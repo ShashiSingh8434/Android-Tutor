@@ -61,8 +61,14 @@ The app follows a simple and intuitive learning journey:
 
 - **Language:** Java / Kotlin
 - **IDE:** Android Studio
-- **Minimum SDK:** As defined in project configuration
-- **Target Audience:** Beginner to intermediate Android developers
+  
+## Build Environment
+
+- Java Version: 17
+- Android Gradle Plugin: 8.9.0
+- compileSdk: 35
+- Recommended Android Studio: Jellyfish / Arctic Fox
+
 
 ---
 ## 🚀 Getting Started
