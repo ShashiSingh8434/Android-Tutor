@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Tutor</string>
+    <string name="Guide">
+        • Use ScrollView to enable vertical scrolling for the list of concepts.\n\n
+        • Place a single vertical layout (LinearLayout / ConstraintLayout) inside the ScrollView.\n\n
+        • Add a list of Android concepts using TextView, Button, or CardView.\n\n
+        • Make each concept clickable using an OnClickListener.\n\n
+        • On click, launch a new Activity using an Intent.\n\n
+        • Pass the concept name via Intent extras for dynamic content.\n\n
+        • Open the new screen on top of the current screen.\n
+    </string>
+</resources>
